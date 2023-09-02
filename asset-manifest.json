@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aboutme/static/css/main.b260c28d.css",
-    "main.js": "/aboutme/static/js/main.092ecdf6.js",
+    "main.js": "/aboutme/static/js/main.e7c92270.js",
     "static/js/415.4d6acbeb.chunk.js": "/aboutme/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/aboutme/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/aboutme/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -9,7 +9,7 @@
     "static/media/suicide.png": "/aboutme/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/codeEditor.png": "/aboutme/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/aboutme/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/aboutme/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/home-main.svg": "/aboutme/static/media/home-main.715bc117004345d0029afe39ff7410fa.svg",
     "static/media/about.png": "/aboutme/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/aboutme/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/aboutme/static/media/Soumyajit_Behera-BIT_MESRA.51bf91e4644d2514e97b.pdf",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/aboutme/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/aboutme/index.html",
     "main.b260c28d.css.map": "/aboutme/static/css/main.b260c28d.css.map",
-    "main.092ecdf6.js.map": "/aboutme/static/js/main.092ecdf6.js.map",
+    "main.e7c92270.js.map": "/aboutme/static/js/main.e7c92270.js.map",
     "415.4d6acbeb.chunk.js.map": "/aboutme/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/aboutme/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b260c28d.css",
-    "static/js/main.092ecdf6.js"
+    "static/js/main.e7c92270.js"
   ]
 }
